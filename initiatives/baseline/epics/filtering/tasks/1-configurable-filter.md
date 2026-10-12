@@ -1,6 +1,6 @@
 ## 1. Configurable filter
 
-- **Depends on:** timeline
+- **Depends on:** timeline; 0 (the filter choice and parameters come from the research)
 - **Contract:**
   - In: TakeData
   - Requires: Butterworth (body) and One Euro (hands); can be turned off, since FreeMoCap already filters
